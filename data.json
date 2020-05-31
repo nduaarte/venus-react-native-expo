@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "musicUrl": "",
+      "image": "",
+      "musicName": "",
+      "autorName": ""
+    },
+    {
+      "id": 2,
+      "musicUrl": "",
+      "image": "",
+      "musicName": "",
+      "autorName": ""
+    },
+    {
+      "id": 3,
+      "musicUrl": "",
+      "image": "",
+      "musicName": "",
+      "autorName": ""
+    },
+    {
+      "id": 4,
+      "musicUrl": "",
+      "image": "",
+      "musicName": "",
+      "autorName": ""
+    },
+    {
+      "id": 5,
+      "musicUrl": "",
+      "image": "",
+      "musicName": "",
+      "autorName": ""
+    },
+  ]
+}
