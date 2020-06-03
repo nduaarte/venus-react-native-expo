@@ -1,7 +1,6 @@
 import  React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator,  TransitionPresets } from '@react-navigation/stack';
-import SoundPlayer from 'react-native-sound-player';
 
 import NowPlaying from './src/screens/nowPlaying';
 import SongList from './src/screens/songList';
