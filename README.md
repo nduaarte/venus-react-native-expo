@@ -1,5 +1,4 @@
-# venus-expo
-Music Player
+PROJETO DESCONTINUADO
 
-Podendo baixar músicas e escutar offline
-.
+Você pode ver VENUS 2.0:
+https://github.com/redspaace/react-native-venus-2
